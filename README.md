@@ -1,5 +1,7 @@
 # csce-355-programming-assignment
-Programming assignment for Foundations of Computation
+[Programming assignment for Foundations of Computation](https://cse.sc.edu/~pade/csce355/programming-assignment.pdf)
+
+Austin Pahl, University of South Carolina Fall 2016 CSCE 355
 
 In this assignment, I solve some problems related to the theory of computation.
 
