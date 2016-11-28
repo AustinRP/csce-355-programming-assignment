@@ -1,4 +1,5 @@
 # Austin Pahl, CSCE 355 Programming Assignment, Fall 2016
 Build:
-
+  make simulator
 Run:
+  ./simulator
