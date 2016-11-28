@@ -1,0 +1,6 @@
+# executables
+simulator
+properties
+
+# c++ files
+**/*.o
